@@ -6,8 +6,8 @@ include 'db.php';
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Sklep Internetowy</title>
     <link rel="stylesheet" href="style.css">
+    <title>Sieciaczek</title>
 </head>
 <body>
     <header>
